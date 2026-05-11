@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "markdownlint.config": {
+    "MD033": {
+      "allowed_elements": ["p", "img", "h1", "h2", "h3", "h4", "h5", "h6"]
+    }
+  },
+  "javascript.validate.enable": false
+}
